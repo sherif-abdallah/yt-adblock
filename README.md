@@ -5,4 +5,4 @@ Tools = ['PHP', 'JavaScript', 'HTML','CSS']
 ```
 Lorem ipsum dolor sit amet.
 
-[button url="http://www.google.com"]
+[Click me](http://www.google.com){: .btn}
