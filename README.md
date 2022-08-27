@@ -12,6 +12,7 @@ Website to watch or download Youtube videos without ads
 1. PHP
 2. CSS
 3. JavaScript
+4. Jquery
 
 
 ## URL
